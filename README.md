@@ -1,2 +1,3 @@
 # Synthetic-Data-Gen
-Synthetic Data Gen started as part of a hackathon for Thalas
+Synthetic Data Generation tool Developed by Callum Devlin and Aidan Bennis
+Originally started as part of a hackathon for Thalas
